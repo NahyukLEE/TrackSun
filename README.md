@@ -1,5 +1,8 @@
 # TrackSun: Tracking-Sun-position-with-reference-height-and-shadow
-Repository for research method for tracking sun position with reference height and shadow information.
+**N. Lee**\*, H. Lee*, H. Hong* (* School of Computer Science & Engineering, Chung-Ang Univ.)    
+
+Repository for research method for tracking sun position with reference height and shadow information.  
+
 
 ### Loadmap
 - Vanishing point detection

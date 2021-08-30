@@ -1,0 +1,4 @@
+*.png
+*.pyc
+test.py
+/.vscode
